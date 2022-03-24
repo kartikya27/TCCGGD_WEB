@@ -1,25 +1,22 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <a class="navbar-brand" href="#">Navbar</a>
-    <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li>
-      </ul>
-      <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
-    </div>
-  </div>
-</nav>
+<section id="home" class="home-parallax" style="background-image: url(assets/img/home-bg.jpg); background-size: cover; background-repeat: no-repeat;">
+			<div class="container text-home">
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<div class="hero-text home-text">
+							<!-- <h2>Grow Your Business.<span class="tccteg"> Here's How: </span></h2> -->
+							<h2>Brands <span class="are-about"> are about</span> ideas <!-- <span class="tccteg"> With Tcc </span> --></h2>
+							<div class="brand-idea"> 
+							<span>An idea is <span class="born">born</span>,</span> 
+							 <span>An idea is <span class="born">examined</span>,</span> 
+							 <span>An idea is <span class="born">discarded</span>,</span>
+							 <span>An idea is <span class="born">accepted</span></span>
+						</div>
+					 <a class="btn btn-default btn-light-bg page-scroll" href="#why-us">Get in Touch</a>
+					 
+						 </div> 
+					</div><!-- END COL-->
+				</div><!-- END ROW-->
+			</div><!-- END CONTAINER-->
+			
+			
+		</section>

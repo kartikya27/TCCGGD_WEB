@@ -12,7 +12,10 @@ class TccController extends BaseController
     }
 
     public function the_communication_council(){
-        echo view('templates/header');
+        $page['title'] = "The Communication Council - TCC";
+        echo view('templates/header',$page);
+        echo view('templates/TCC_Header');
+        
         return view('Pages/tccCouncilPage');
     }
 }

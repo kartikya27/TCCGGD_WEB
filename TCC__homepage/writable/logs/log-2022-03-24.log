@@ -1,0 +1,24 @@
+CRITICAL - 2022-03-24 11:48:24 --> Undefined variable $title
+#0 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\app\Views\templates\header.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'G:\\web Work\\GIT...', 5)
+#1 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\View\View.php(210): include('G:\\web Work\\GIT...')
+#2 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\app\Controllers\TccController.php(15): view('templates/heade...')
+#5 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\TccController->the_communication_council()
+#6 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TccController))
+#7 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('G:\\web Work\\GIT...')
+#10 {main}
+CRITICAL - 2022-03-24 11:48:37 --> Undefined variable $title
+#0 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\app\Views\templates\header.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'G:\\web Work\\GIT...', 5)
+#1 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\View\View.php(210): include('G:\\web Work\\GIT...')
+#2 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\app\Controllers\TccController.php(15): view('templates/heade...')
+#5 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\TccController->the_communication_council()
+#6 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TccController))
+#7 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 G:\web Work\GITHUB\TCCGGD_WEB\TCC__homepage\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('G:\\web Work\\GIT...')
+#10 {main}
