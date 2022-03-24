@@ -1,0 +1,24 @@
+.wraper {background: black;padding: 5px;}
+.bg-light__white {background: #fff !important;}
+.custom__heading {font-size: 22px;font-weight: bold;letter-spacing: 6px;line-height: 28px;}
+.padding__TB-50 {padding-top: 50px;padding-bottom: 50px;}
+.padding__all {padding: 50px 20px}
+.logo__img {display: inline-block;position: relative;width: 100%;z-index: 1;bottom: -28px;}
+.custom__heading-h3 {font-size: 17px;letter-spacing: 4px;margin-bottom: 55px;margin-top: 15px;}
+.enter__btn a{color:#292929}
+.enter__btn-red a:hover { color: #f21b4b}
+.enter__btn-green a:hover {color: #5aa648}
+.enter__btn-blue a:hover {color: #4681c3}
+.enter__btn-orange a:hover {color: #f49022}
+.section span {display: inline-block;font-size: 17px;font-style: italic;width: 100%;font-family: 'PT Serif', serif;}
+.bg-pink {background: #eb1e4d;}
+.address {width: 50%;color: #fff;}
+.address h3, .follow h3 {font-size: 22px;font-weight: bold;letter-spacing: 4px;line-height: 28px;text-transform: uppercase;color: #fff;padding-bottom: 12px;}
+.follow {text-align: right;float: right;color: #fff;}
+@media(max-width:600px) { 
+	.follow {text-align: left;float: left;}
+}
+ul {padding: 0;}
+.social__icon li {display: inline-block;margin-right: 10px;}
+.social__icon li i {border: 1px solid #fff;border-radius: 20px;height: 40px;width: 40px;line-height: 40px;text-align: center;color: #fff;font-size: 18px;}
+li {list-style: none;}
