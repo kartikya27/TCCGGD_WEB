@@ -17,6 +17,6 @@
     <script src="https://use.fontawesome.com/620667a297.js"></script>
 
     <!-- main CSS -->
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/main.css" />
 
 </head>

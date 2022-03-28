@@ -34,6 +34,8 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('the-communication-council','TccController::the_communication_council');
+$routes->get('the-communication-council/services','TccController::services');
+$routes->get('the-communication-council/our-clients','TccController::clients');
 
 /*
  * --------------------------------------------------------------------
