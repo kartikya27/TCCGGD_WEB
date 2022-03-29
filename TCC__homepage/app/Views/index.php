@@ -2,9 +2,9 @@
     <div class="wraper">
         <div class="container-fluid bg-light__white section">
             <div class="row">
-                <div class="col-md-3 text-center padding__all">
+                <div class="col-md-3 col-sm-6 col-xs-6 text-center padding__all">
                     <h1 class="custom__heading">BUSINESS STRATEGY AND COMMUNICATION</h1>
-                    <p><i>Public Relations</i></p>
+                    <p class="subheading"><i>Public Relations</i></p>
                     <div class="logo__img">
                         <img src="assets/logo/tcc.webp" alt="">
                     </div>
@@ -20,9 +20,9 @@
                     </div>
                 </div>
 
-                <div class="col-md-3 text-center bg-light padding__all">
+                <div class="col-md-3 col-sm-6 col-xs-6 text-center bg-light padding__all">
                     <h1 class="custom__heading">CREATIVE BRAND INNOVATION CONSULTANCY</h1>
-                    <p><i>Communication Design</i></p>
+                    <p class="subheading"><i>Communication Design</i></p>
                     <div class="logo__img">
                         <img src="assets/logo/gdd.webp" alt="">
                     </div>
@@ -38,9 +38,9 @@
                     </div>
                 </div>
 
-                <div class="col-md-3 text-center padding__all">
+                <div class="col-md-3 col-sm-6 col-xs-6 text-center padding__all">
                     <h1 class="custom__heading">SOCIAL MEDIA STRATEGY AND MANAGEMENT</h1>
-                    <p><i>Social Media</i></p>
+                    <p class="subheading"><i>Social Media</i></p>
                     <div class="logo__img">
                         <img src="assets/logo/tcc-yellow.webp" alt="">
                     </div>
@@ -56,9 +56,9 @@
                     </div>
                 </div>
 
-                <div class="col-md-3 text-center bg-light padding__all">
+                <div class="col-md-3 col-sm-6 col-xs-6 text-center bg-light padding__all">
                     <h1 class="custom__heading">DIGITAL MARKETING AND WEB DEVELOPMENT</h1>
-                    <p><i>Digital Marketing</i></p>
+                    <p class="subheading"><i>Digital Marketing</i></p>
                     <div class="logo__img">
                         <img src="assets/logo/digitech-logo.webp" alt="">
                     </div>

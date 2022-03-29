@@ -5,7 +5,7 @@
                     <h2 class="b-clor">WHY TCC?</h2>
                 </div>
                 <div class="row">
-                    <div class="col-md-7">
+                    <div class="col-md-7 col-sm-12 col-12">
                         <div class="why-choosing">
                             <ul>
 
@@ -130,7 +130,7 @@
 
                     </div>
                     <div class="col-md-1"></div>
-                    <div class="col-md-4 sidebar">
+                    <div class="col-md-4 col-sm-12 col-12 sidebar">
                         <div class="contact-form">
 
                             <form>

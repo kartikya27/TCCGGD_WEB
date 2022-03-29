@@ -24,12 +24,12 @@
 
     <!--Content Left-->
     <div class="row padding__TB-50 content__left">
-        <div class="col-md-6">
-            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/1.png" alt=""> </div>
-            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/1-1.png" alt=""> </div>
+        <div class="col-md-6 col-12 col-sm-12">
+            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/1.jpg" alt=""> </div>
+            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/1-1.jpg" alt=""> </div>
         </div>
 
-        <div class="col-md-6 padding__all-60 margin_auto">
+        <div class="col-md-6 col-12 col-sm-12 padding__all-60 margin_auto">
             <div style="">
                 <h2 class="semi_heading">Communication Strategy Workshop</h2>
                 <p class="mt-50">At the onset of the engagement, TCC conducts a Communication Strategy Workshop with key
@@ -43,12 +43,12 @@
     <!--Content Left-->
     <!--Content right-->
     <div class="row padding__TB-50 content__right flex-row-reverse ">
-        <div class="col-md-6 ">
-            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/2.png" alt=""> </div>
-            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/2-2.png" alt=""> </div>
+        <div class="col-md-6 col-12 col-sm-12 ">
+            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/2.jpg" alt=""> </div>
+            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/2-2.jpg" alt=""> </div>
         </div>
 
-        <div class="col-md-6 padding__all-60 margin_auto ">
+        <div class="col-md-6 col-12 col-sm-12 padding__all-60 margin_auto ">
             <div style="">
                 <h2 class="semi_heading">Brand Communication Strategy</h2>
                 <p class="mt-50">Bold and fresh communication is our specialty. In a world overrun by noise we make sure
@@ -59,12 +59,12 @@
     <!--Content right-->
     <!--Content Left-->
     <div class="row padding__TB-50 content__left">
-        <div class="col-md-6">
-            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/3.png" alt=""> </div>
-            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/3-3.png" alt=""> </div>
+        <div class="col-md-6 col-12 col-sm-12">
+            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/3.jpg" alt=""> </div>
+            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/3-3.jpg" alt=""> </div>
         </div>
 
-        <div class="col-md-6 padding__all-60 margin_auto">
+        <div class="col-md-6 col-12 col-sm-12 padding__all-60 margin_auto">
             <div style="">
                 <h2 class="semi_heading">Media Communication Strategy</h2>
                 <p class="mt-50">We connect you and your brand to the media—the credible ‘third-party endorser’—to add
@@ -87,12 +87,12 @@
     <!--Content Left-->
     <!--Content right-->
     <div class="row padding__TB-50 content__right flex-row-reverse ">
-        <div class="col-md-6 ">
-            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/4.png" alt=""> </div>
-            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/4-4.png" alt=""> </div>
+        <div class="col-md-6 col-12 col-sm-12 ">
+            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/4.jpg" alt=""> </div>
+            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/4-4.jpg" alt=""> </div>
         </div>
 
-        <div class="col-md-6 padding__all-60 margin_auto ">
+        <div class="col-md-6 col-12 col-sm-12 padding__all-60 margin_auto ">
             <div style="">
                 <h2 class="semi_heading">Event Conceptualization & Execution</h2>
                 <p class="mt-50">We conceptualize, structure and oversee bespoke events that are unique, innovative and
@@ -118,12 +118,12 @@
     <!--Content right-->
     <!--Content Left-->
     <div class="row padding__TB-50 content__left">
-        <div class="col-md-6">
-            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/5.png" alt=""> </div>
-            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/5-5.png" alt=""> </div>
+        <div class="col-md-6 col-12 col-sm-12">
+            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/5.jpg" alt=""> </div>
+            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/5-5.jpg" alt=""> </div>
         </div>
 
-        <div class="col-md-6 padding__all-60 margin_auto">
+        <div class="col-md-6 col-12 col-sm-12 padding__all-60 margin_auto">
             <div style="">
                 <h2 class="semi_heading">Influencer Relations</h2>
                 <p class="mt-50">We understand the importance of influencer relationships in brand-building efforts. Our
@@ -144,12 +144,12 @@
     <!--Content Left-->
     <!--Content right-->
     <div class="row padding__TB-50 content__right flex-row-reverse ">
-        <div class="col-md-6 ">
-            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/6.png" alt=""> </div>
-            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/6-6.png" alt=""> </div>
+        <div class="col-md-6 col-12 col-sm-12 ">
+            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/6.jpg" alt=""> </div>
+            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/6-6.jpg" alt=""> </div>
         </div>
 
-        <div class="col-md-6 padding__all-60 margin_auto ">
+        <div class="col-md-6 col-12 col-sm-12 padding__all-60 margin_auto ">
             <div style="">
                 <h2 class="semi_heading">Cross Linkages</h2>
                 <p class="mt-50">We recommend and initiate mutually-beneficial collaborations with brands that are a
@@ -162,12 +162,12 @@
     <!--Content right-->
     <!--Content Left-->
     <div class="row padding__TB-50 content__left">
-        <div class="col-md-6 mt-100">
-            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/7.png" alt=""> </div>
-            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/7-7.png" alt=""> </div>
+        <div class="col-md-6 col-12 col-sm-12 mt-100">
+            <div class="image1"><img src="<?= base_url(); ?>/assets/images/services/7.jpg" alt=""> </div>
+            <div class="image2"><img src="<?= base_url(); ?>/assets/images/services/7-7.jpg" alt=""> </div>
         </div>
 
-        <div class="col-md-6 padding__all-60 margin_auto">
+        <div class="col-md-6 col-12 col-sm-12 padding__all-60 margin_auto">
             <div style="">
                 <h2 class="semi_heading">Corporate Communication & Services</h2>
                 <p class="mt-50">We work as strategic partners to our clients, providing ongoing consulting with

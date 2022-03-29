@@ -5,7 +5,7 @@
             <div class="col-md-12 text-center">
                 <div class="hero-text home-text">
                     <!-- <h2>Grow Your Business.<span class="tccteg"> Here's How: </span></h2> -->
-                    <h2>Brands <span class="are-about"> are about</span> ideas
+                    <h2>Brands are about ideas
                         <!-- <span class="tccteg"> With Tcc </span> -->
                     </h2>
                     <div class="brand-idea">
@@ -28,11 +28,11 @@
         <div class="bg__black padding__30">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4 margin_auto">
+                    <div class="col-md-4 col-sm-6 col-12 margin_auto">
                         <h1 class="heading__pink">THE COMMUNICATION COUNCIL</h1>
                         <h3 class="heading__white">LEADING PR AGENCY<br> IN DELHI</h3>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-8 col-sm-6 col-12">
                         <p class="text__white">We are the ideas company. We pride ourselves on originality.<br><br>
 
                             For a start-up or a billion-dollar company, we become your partner and empower you with
@@ -58,7 +58,7 @@
                     <h2 class="b-clor">OUR INTEGRATED APPROACH</h2>
                 </div>
                 <div class="row mt-20">
-                    <div class="col-md-4 ">
+                    <div class="col-md-4 col-sm-6 col-12 ">
                         <div class="box-wrap">
                             <div class="content">
                                 <img src="assets/img/pr.png" alt="">
@@ -95,7 +95,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-6 col-12 ">
                         <div class="box-wrap">
                             <div class="content">
                                 <img src="assets/img/social.png" alt="">
@@ -138,7 +138,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-6 col-12">
                         <div class="box-wrap">
                             <div class="content">
                                 <img src="assets/img/design.png" alt="">
@@ -174,7 +174,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-6 col-12">
                         <div class="box-wrap">
                             <div class="content">
                                 <img src="assets/img/digital.png" alt="">
@@ -212,7 +212,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-6 col-12">
                         <div class="box-wrap">
                             <div class="content">
                                 <img src="assets/img/development.png" alt="">

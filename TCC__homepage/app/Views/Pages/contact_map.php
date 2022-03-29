@@ -38,7 +38,7 @@
                 </div>
 
                 <div class="col-md-6">
-                    <div class="contact_address">
+                    <div class="contact_address mt-50">
                         <div class="single-address">
                             <i class="fa fa-rocket"></i>
                             <h4>Our Location</h4>
