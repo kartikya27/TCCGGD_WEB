@@ -1,4 +1,5 @@
-<div class="container-fluid bg-pink padding__all">
+<div class="bg-pink">
+    <div class="container padding__all">
             <div class="row">
                 <div class="col-md-6">
                     <div class="address">
@@ -20,22 +21,23 @@
                         <div class="social__icon">
                             <ul>
                                 <li>
-                                    <i class="fa fa-facebook"></i>
+                                    <a href=""><i class="fa fa-facebook"></a></i>
                                 </li>
                                 <li>
-                                    <i class="fa fa-linkedin"></i>
+                                <a href=""><i class="fa fa-linkedin"></a></i>
                                 </li>
                                 <li>
-                                    <i class="fa fa-youtube"></i>
+                                <a href=""><i class="fa fa-youtube"></a></i>
                                 </li>
                             </ul>
                         </div>
-                        <p>Email : info@tccggd.com</p>
-                        <p>Contact No. : +9111 49434400</p>
+                        <p>Email : <a href="mailto:info@tccggd.com" class="text__white">info@tccggd.com</a></p>
+                        <p>Contact No. : <a href="tel:+911149434400" class="text__white">+9111 49434400</a></p>
                     </div>
                 </div>
             </div>
-        </div>
+    </div>
+</div>
 
 </div>
 </body>

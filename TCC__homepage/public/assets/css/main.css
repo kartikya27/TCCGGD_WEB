@@ -18,17 +18,20 @@ p{color:#333;font-family:raleway, sans-serif;font-size:0.8rem;line-height:1.2rem
 .custom__heading {font-size:1rem;font-weight:bold;letter-spacing:0.2rem;line-height:1.2rem;}
 .subheading i{font-size:0.8rem;}
 .padding__TB-50 {padding-top:50px;padding-bottom:50px;}
-.padding__all {padding:50px 20px}
+.padding__all {padding:50px 25px}
 .padding__all-60 {padding:60px}
+.height_full{min-height: 100vh;}
 .logo__img {display:inline-block;position:relative;width:100%;z-index:1;bottom:-28px;}
-.custom__heading-h3 {font-size:0.8rem;letter-spacing:4px;margin-bottom:55px;margin-top:15px;}
+.custom__heading-h3 {font-size:0.8rem;letter-spacing:4px;min-height:100px;margin-top:15px;}
 .enter__btn a{color:#292929}
+.enter__btn{position: relative;bottom: 0%;}
 .all__padding-0{padding:0;}
 .enter__btn-red a:hover {color:#f21b4b}
 .enter__btn-green a:hover {color:#5aa648}
 .enter__btn-blue a:hover {color:#4681c3}
 .enter__btn-orange a:hover {color:#f49022}
 .section span {display:inline-block;font-size:0.8rem;font-style:italic;width:100%;font-family:'PT Serif', serif;}
+.section span:hover{font-weight: 600;}
 .bg-pink {background:#eb1e4d;}
 .address {width:50%;color:#fff;}
 .address h3, .follow h3 {font-size:1rem;font-weight:bold;letter-spacing:0.1rem;line-height:1rem;text-transform:uppercase;color:#fff;padding-bottom:1rem;}
@@ -136,7 +139,7 @@ h2.semi_heading:before {content:"";position:absolute;border-bottom:2px solid #e6
 .inner-2 {height:180px;}
 
 /* MObile Version  */
-@media(max-width:600px) {
+@media screen and (max-width:575px) {
     html{font-size:4vw;}
     /* Home Page */
     .follow {text-align:left;float:left;}
@@ -150,7 +153,7 @@ h2.semi_heading:before {content:"";position:absolute;border-bottom:2px solid #e6
 }
 
 /* Tablet Version  */
-@media(min-width:600px) and (max-width:770px) {
+@media screen and (max-width:767px) {
     html{font-size:3vw;}
      /* Home Page */
      .follow {text-align:left;float:left;}

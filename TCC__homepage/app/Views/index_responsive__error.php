@@ -2,7 +2,7 @@
     <div class="">
         <div class="container-fluid bg-light__white section">
             <div class="row">
-                <div class="col-lg-3 col-md-6 col-xs-6 text-center padding__all height_full">
+                <div class="col-md-3 col-sm-6 col-xs-6 text-center padding__all height_full">
                     <h1 class="custom__heading">BUSINESS STRATEGY AND COMMUNICATION</h1>
                     <p class="subheading"><i>Public Relations</i></p>
                     <div class="logo__img">
@@ -20,7 +20,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 col-xs-6 text-center bg-light padding__all height_full">
+                <div class="col-md-3 col-sm-6 col-xs-6 text-center bg-light padding__all height_full">
                     <h1 class="custom__heading">CREATIVE BRAND INNOVATION CONSULTANCY</h1>
                     <p class="subheading"><i>Communication Design</i></p>
                     <div class="logo__img">
@@ -38,7 +38,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 col-xs-6 text-center padding__all height_full">
+                <div class="col-md-3 col-sm-6 col-xs-6 text-center padding__all height_full">
                     <h1 class="custom__heading">SOCIAL MEDIA STRATEGY AND MANAGEMENT</h1>
                     <p class="subheading"><i>Social Media</i></p>
                     <div class="logo__img">
@@ -56,7 +56,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 col-xs-6 text-center bg-light padding__all height_full">
+                <div class="col-md-3 col-sm-6 col-xs-6 text-center bg-light padding__all height_full">
                     <h1 class="custom__heading">DIGITAL MARKETING AND WEB DEVELOPMENT</h1>
                     <p class="subheading"><i>Digital Marketing</i></p>
                     <div class="logo__img">
